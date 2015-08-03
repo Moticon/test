@@ -1,1 +1,3 @@
 Just some text
+
+this one is in the newConflict branch.
