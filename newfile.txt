@@ -1,5 +1,4 @@
 Just some text
 
-this is a new line in the branch...
-
-just a test
+THis is what was in the master branch
+then I added for teh newConflict1 branch. 
